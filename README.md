@@ -6,7 +6,7 @@ Aquí podrás encontrar los comandos del Cloud Shell usados y explicados.
 
 ### Herramientas usadas
 * Azure IoT Hub
-* Simulated Temperature Sensor
+* Simulated Temperature Sensor (Este lo buscas desde el Marketplace con este nombre en Inglés)
 * Azure Cloud Shell con Bash
 * Azure Virtual Machine
 
