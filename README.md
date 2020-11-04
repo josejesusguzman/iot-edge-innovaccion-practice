@@ -10,6 +10,12 @@ Aquí podrás encontrar los comandos del Cloud Shell usados y explicados.
 * Azure Cloud Shell con Bash
 * Azure Virtual Machine
 
+### Links
+* [Clase en vivo de IoT](https://web.microsoftstream.com/video/120b1cdc-c267-4ea4-bac6-528a3f707359)
+* [Tutorial IoT Edge](https://www.youtube.com/watch?v=lN66jCsFjGs&ab_channel=Innovacci%C3%B3nvirtual)
+* [Live Internet de las cosas y tecnología vestible](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdlNjZjMmMtZTQ5NC00ZGNkLWI3NjEtZmIzNjQzYjQxNTJl%40thread.v2/0?context=%7b%22Tid%22%3a%224ae54b05-b77e-4224-aef1-8661422e0816%22%2c%22Oid%22%3a%2267a900b5-a64a-4c11-a5b4-e37828d233ed%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+* [Manifiesto del diseño de IoT](https://www.iotmanifesto.com/)
+
 Con este comando instalamos la extensión de IoT para darle las funcionalidades que necesitamos a nuestro Cloud Shell
 
 ```
@@ -68,9 +74,3 @@ Obtenemos de manera periodica las lecturas del sensor de temperatura
 ```
 sudo iotedge logs SimulatedTemperatureSensor -f
 ```
-
-### Links
-* [Clase en vivo de IoT](https://web.microsoftstream.com/video/120b1cdc-c267-4ea4-bac6-528a3f707359)
-* [Tutorial IoT Edge](https://www.youtube.com/watch?v=lN66jCsFjGs&ab_channel=Innovacci%C3%B3nvirtual)
-* [Live Internet de las cosas y tecnología vestible](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdlNjZjMmMtZTQ5NC00ZGNkLWI3NjEtZmIzNjQzYjQxNTJl%40thread.v2/0?context=%7b%22Tid%22%3a%224ae54b05-b77e-4224-aef1-8661422e0816%22%2c%22Oid%22%3a%2267a900b5-a64a-4c11-a5b4-e37828d233ed%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-* [Manifiesto del diseño de IoT](https://www.iotmanifesto.com/)
