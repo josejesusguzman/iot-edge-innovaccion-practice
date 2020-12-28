@@ -1,5 +1,4 @@
 # Práctica de Azure IoT Hub
-## Práctica del módulo 193 del Training de Innovacción Virtual
 
 Aquí podrás encontrar los comandos del Cloud Shell usados y explicados.
 **Remplaza las palabras en mayusculas por la información correspondiente**
