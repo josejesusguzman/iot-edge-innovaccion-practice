@@ -95,7 +95,7 @@ az deployment group create \
 7. Colocamos el acceso SSH obtenido para entrar a la máquina virtual
 
 ```Console
-ssh {admin username}@{DNS name}
+ssh <TU USERNAME>@{TU DNS}
 ```
 
 8. Comprobamos el status de nuestra implementación de iotedge
