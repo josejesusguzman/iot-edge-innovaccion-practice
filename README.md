@@ -18,6 +18,8 @@ Aquí podrás encontrar los comandos del Cloud Shell usados y explicados.
 
 ## Recursos adicionales
 * [Manifiesto del diseño de IoT](https://www.iotmanifesto.com/)
+* [Tutotial para conectarlo a Power BI](https://docs.microsoft.com/es-mx/azure/iot-hub/iot-hub-live-data-visualization-in-power-bi)
+* [Tutorial para conectarlo a ML Studio](https://docs.microsoft.com/es-mx/azure/iot-hub/iot-hub-weather-forecast-machine-learning)
 
 **Indice**
 <!-- TOC -->
